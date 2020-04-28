@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="salmon">#F0B7A4</color>
+    <color name="salmonmuda">#F1D1B5</color>
+    <color name="birumuda">#568EA6</color>
+    <color name="birutua">#305F72</color>
+    <color name="pink">#F18C8E</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="hijaumuda">#EDF3E9</color>
+    <color name="hijaumuda2">#C0D9C2</color>
+    <color name="kuning">#FAEAA1</color>
+    <color name="coklat">#808077</color>
+    <color name="hijautua">#88B2AA</color>
+    <color name="brokenwhite">#F0EDE3</color>
+</resources>
